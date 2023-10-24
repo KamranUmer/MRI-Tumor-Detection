@@ -1,3 +1,7 @@
+
+![Screenshot (137)](https://github.com/KamranUmer/MRI-Tumor-Detection/assets/86089489/af615f8b-4729-4ddd-b820-5e09ea5c0cec)
+
+
 # MRI Brain Tumor Segmentation with YOLOv7
 
 This repository contains the code and resources for training a brain tumor segmentation model using YOLOv7 on a custom dataset of MRI images. YOLOv7 is a state-of-the-art object detection algorithm known for its accuracy and real-time performance. By leveraging YOLOv7, we can efficiently segment brain tumors in MRI images, which can be used to aid in diagnosis and treatment planning.
